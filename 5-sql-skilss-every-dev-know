@@ -1,0 +1,99 @@
+orms are useful to a point
+
+1. Indexing
+
+storage heap and b-tree
+
+clusterd vs non-clustered
+
+primary index
+
+your entire table
+
+physically ordered by the file key
+
+like phone book
+
+orderd by last name, first, contains address and phone num
+
+there can only be one
+
+secondary index
+
+skip if think more experience
+
+index hint, not a hint
+
+with index x
+
+you are not smarter than query optimizer
+
+covering index, has value being looked up  (Value and Suit)
+
+doesn't look it up because value looked up is in the index
+
+create index on key and include other values for output
+
+index overhead
+
+index maintenence
+
+page splits fragementation
+
+index most selected column first
+
+index naming convention
+
+indexes as narrow as possible
+
+use prefix/hash indexes for varchar with long text
+
+logical join operators
+
+nested loop join, merge join, hash join
+
+nested-loop semi-join finds one, fails fast
+
+merge join - keys in both tables in order by key
+
+hash join - no index or large join - parallelize well - hash table - watch out for memory usage if bad statistics
+
+3) database design
+
+1st normal form
+
+narrow columns are usually better
+avoid nulls
+simple > complex
+weigh char vs varchar
+
+4) Query optimization
+
+don't ask for what you don't need:
+
+fetch more than needed
+
+fetch all columns from multi join
+
+fetch all columns period
+
+avoid analyzin too much data
+
+learn where to find bottlenecks:
+-slow query log
+-queries that don't use indexs
+-DMVs
+
+learn to read query plans
+
+calculations on column is expensive vs calculation on constant
+
+restructure queries
+
+set based theory
+
+don't think about row, think about column
+
+
+  
+

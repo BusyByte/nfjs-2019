@@ -1,0 +1,185 @@
+Nathaniel Shutta
+@ntshutta
+ntschutta.io
+
+thinking architecturally book
+
+cloud === microservices
+
+ddd
+
+could != should
+
+number of good reasons
+
+cost of added complexity
+
+does your application benefit
+
+when should you use microservices
+
+monoliths hurt
+
+hard to get head wrapped around it
+
+long ramp up time
+
+scale up everything
+
+hard to evolve
+
+wants to be disorder
+
+modularity breaks down
+
+longer to add functionality
+
+change teams for ms split shared db
+
+anything can be rewritten in two weeks or less
+
+terms of characteristics
+
+small focused set thing
+
+independently deployable
+
+business capability
+
+hi cohesion - low coupling
+
+tools
+
+multiple rates of change
+
+deliver business value quickly
+
+churn
+
+turbulence on churn vs complexity
+
+codescene
+
+scm can help
+
+strangler pattern
+
+gradually replace the heritage bits
+
+no big bang cut over
+
+what would you say the old system does exactly
+
+data driven strangler
+
+proxy layer between client and service
+
+log what it does
+
+run both and compare, use heritage system
+
+analyze why didn't match
+
+don't be surprised if old system is wrong
+
+independent lifecylces
+
+monoliths are big ships - they don't turn on a dime
+
+always changing mindset, A/B
+
+takes time
+
+industry is not immune
+
+quarterly release cycle won't cut it
+
+own repo and pipeline and independent lifecycle
+
+longest stretch to get to productive
+
+at mercy of longest lifecycle
+
+fitnesse functions
+
+hypothesis driven development
+
+in a monolith we had to be conserative`
+
+test our hypothesis
+
+you build it you own it
+
+expertise grows with repetition
+
+deploy early, often
+
+robust pipelines
+
+how we always done it won't cut it
+
+often when we know least
+
+add and remove capacity as needed
+
+monitoring to the rescue - site reliability engineering
+
+four golden signals
+
+latency
+
+traffic level (req/s)
+
+error rate
+
+resources are satureated
+
+sampling frequency
+
+understand business drivers
+
+failure isolation
+
+what happens if this fails
+
+circuit breaker
+
+chaos engineering
+
+indirection layer
+
+basic proxy pattern or adapter
+
+facade instead of every client
+
+aspect oriented pogramming
+
+evolutionary architecture
+
+flexibility
+
+polyglot tech stacks
+
+developers can learn new things
+
+hire for culteral fit and ability to learn
+
+aware of technology sprawl
+
+guardrails
+
+focus on paved roads
+
+2 weeks to rewrite
+
+more time === more invested
+
+sunk cost fallacy
+
+weigh pros and cons
+
+
+
+
+
+

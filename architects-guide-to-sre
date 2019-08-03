@@ -1,0 +1,180 @@
+Nathaniel T Schutta
+@ntschutta
+
+software dev processes evolve
+
+agile
+
+new role - site reliability engineer
+
+project retros
+
+understanding history
+
+started on Apollo
+
+Margarett Hamilton
+
+hope is not a strategy
+
+failures will find a way
+
+corba, ejb, soa
+
+api first
+
+dark sky api
+
+technology changes
+
+mobile phone
+
+cloud
+
+monitor
+
+alert
+
+find
+
+debug harder
+
+bounded contexts
+
+ddd
+
+rewrite in 2 weeks
+
+2 pizza teams
+
+deployable units vs applications
+
+functions + serverless
+
+death start architecture
+
+software dev to do ops
+
+automate all manual tasks
+
+focus on engineering
+
+specific impl of devops
+
+ailities
+
+help with slo's
+
+embrace risk/manage risk
+
+risk continuum
+
+customers expect
+
+competitors provide
+
+cost
+
+tradeoff
+
+heroic efforts work short term
+
+but not sustainable
+
+mean time to recovery
+
+audit process
+
+run books
+
+monitoring solutions
+
+alerting 
+
+logging
+
+dashboards
+
+four golden signals
+
+
+latency traffic error rate and saturation
+
+alerts should be actionable and require human
+
+sense of urgency
+
+burn out
+
+over alert and monitor
+
+toil drives people out of sre
+
+postmortem culture
+
+learn from those mistakes
+
+do not blamestorm
+
+blameless postmortems
+
+root causes
+
+make sure it doesn't happen again
+
+post mortem of month or book club
+
+wheel of mistfortune
+
+recognize for participation
+
+retro on postmortems
+
+improve them
+
+We cannot learn anything without first not knowing something.
+
+slo
+
+availability goal
+
+sli
+
+no conscequence slo, sla get charged/fined
+
+infinity is not a goal
+
+more is not better
+
+slo lets you prioritize
+
+give yourself some wiggle room
+
+error budget
+
+production readiness review
+
+draw architecture on the board
+
+checklist
+
+the checklist manifestor
+
+audit
+
+not red tape
+
+couple hours
+
+arch review
+
+ask about failures
+
+sre team?
+want one?
+
+site reliability engineering book
+
+
+
+

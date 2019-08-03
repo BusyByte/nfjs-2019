@@ -1,0 +1,124 @@
+Neal Ford
+
+architecture foundations
+
+sometimes called non-functional requirements
+
+architecture characteristics and tradeoffs - better name
+
+least worst tradeoffs
+
+synertistic
+
+ill-defined
+
+voluminous
+
+design:
+- / (explicit) specifies a non-domain design consideration
+- \ (implicit) influences structural aspect of the design
+- _ (architecture characteristics) critical or important to app succuesss
+
+response times (ave, max)
+
+performance
+
+scalability
+
+elasticity
+
+agility
+
+testability, deployability
+
+modularity
+
+component coupling
+
+afferent coupling (incoming coupling)
+
+efferent coupling (number things you depend on - outgoing)
+
+abstract = sum abstract / sum of classes
+
+instability = c / (ce + ca)
+
+zone of uselessness
+zone of pain
+
+jar analyzer
+
+component cohesion
+
+general statements from business people
+
+solutions rather than problem
+
+ask why need that?
+
+feasibility
+
+agility
+
+elasticity
+
+scalability
+
+domain knowledge
+
+architectural kata
+
+domain knowlege requires domain knowledge
+
+*ility/performance then architecture
+
+ddd => architecutre quantum
+
+micro front end - portlets that don't suck
+
+evulationay computing fitness function
+
+traveling salesman
+
+ff = length of the route
+
+jdepend finesse function packages = jdepend.containsCycles
+
+consumer driven contracts
+
+simian army
+
+checklist manifesto
+
+maintainability
+
+archunit.org
+- generic exceptions
+- layering depndency
+
+legality of open source
+
+evolutionaryarchitecure.com resource links
+
+analyzing tradeoffs
+
+ATAM CBAM
+
+early before written any code
+
+atam utility tree at quantum level
+
+fitness functions as concrete measure
+
+helicopter - balance of all limbs
+
+don't overspecify
+
+a - critical, b - nice to have, c - aspirational
+
+
+
+
+
+
+
